@@ -1,6 +1,2 @@
-function validatePIN (pin) {
-   return pin.toString()
-
-   }
-  
-console.log (validatePIN(123456))  
+pin = "125363"
+console.log (pin.length)
